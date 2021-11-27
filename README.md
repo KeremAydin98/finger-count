@@ -12,8 +12,8 @@ The classification report can be seen below:
            3       0.92      0.80      0.86       906
            4       0.93      0.98      0.96       906
 
-    accuracy                           0.90      4530
-   macro avg       0.91      0.90      0.90      4530
-weighted avg       0.91      0.90      0.90      4530
+    accuracy                            0.90      4530
+    macro avg       0.91      0.90      0.90      4530
+    weighted avg    0.91      0.90      0.90      4530
 
 And then I compared it with Convex Hull algorithm.
