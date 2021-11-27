@@ -1,6 +1,10 @@
 # finger-count
 
-I have successfully trained a CNN model to detect how many fingers I am holding up. 
+Firstly, I have generated 25000 photos by taking every frame from videos in order to use as a data. The code which does this is called:
+
+photo_generator.py
+
+Then I have successfully trained a CNN model to detect how many fingers I am holding up. 
 
 The classification report can be seen below:
 
