@@ -4,7 +4,7 @@ I have successfully trained a CNN model to detect how many fingers I am holding 
 
 The classification report can be seen below:
 
-precision    recall  f1-score   support
+                  precision  recall   f1-score   support
 
            0       0.98      0.87      0.92       906
            1       0.82      0.93      0.87       906
