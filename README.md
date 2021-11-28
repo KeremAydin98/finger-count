@@ -34,6 +34,10 @@ And then I compared it with Convex Hull algorithm. Convex Hull algorithm was muc
 
 ![image](https://user-images.githubusercontent.com/77073029/143734353-6b43e856-053f-4cec-a9dc-847fb9c1f71b.png)
 
+The model can be reached with this link:
+
+https://drive.google.com/drive/folders/1aTWEWD9uH_uMPYa4aiaUV641rwXLBkhS?usp=sharing
+
 
 
 
