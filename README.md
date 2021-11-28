@@ -1,6 +1,6 @@
 # finger-count
 
-Firstly, I have generated 25000 photos by taking every frame from videos in order to use as a data. The code which does this is called:
+Firstly, I have generated 5000 photos for each number(1,2,3,4,5) by taking every frame from videos in order to use as a data. The code which does this is called:
 
 photo_generator.py
 
