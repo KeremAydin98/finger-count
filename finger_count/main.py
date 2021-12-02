@@ -11,21 +11,10 @@ from tensorflow.keras.callbacks import EarlyStopping
 
 data_dir = 'C:\\Users\\KEREM\\Desktop\\gray_finger_count'
 
-#print(os.listdir(data_dir))
-
 train_dir = data_dir + "\\train"
 test_dir = data_dir + "\\test"
 
-#print(os.listdir(test_dir))
-
-#print(os.listdir(train_dir + "\\1")[0])
-
 cell = train_dir + "\\1\\" + "one (13).png"
-
-#print(imread(cell).shape)
-
-#print(len(os.listdir(train_dir + "\\1")))
-#print(len(os.listdir(test_dir + "\\1")))
 
 d1=[]
 d2=[]
