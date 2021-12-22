@@ -26,6 +26,7 @@ while True:
 
     prediction = model.predict(img)
     prediction = np.argmax(prediction, axis=1)
+    #Predictions were from 0 to 4 so I added 1 to print the correct prediction
     prediction = prediction + 1
 
     cv2.putText(smaller_frame,f"{prediction}",(200,200),cv2.FONT_HERSHEY_SIMPLEX,1,(0,0,0))
